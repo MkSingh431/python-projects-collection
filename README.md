@@ -48,3 +48,48 @@ The core of a currency converter is the exchange rate, which is the value of one
 # 10. [face detection](https://github.com/MkSingh431/python-projects-collection/tree/main/face%20detection)
 ![alt text](https://polakowo.io/datadocs/assets/t01a5ed8aab97b460c9.jpg)
 
+# 11. [handwritten assignments](https://github.com/MkSingh431/python-projects-collection/tree/main/handwritten%20assignments)
+![alt text](https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_400/v1707081693/catalog/1754247738993983488/v7nnkqcxcghyysumwbxu.jpg)
+You can use Python to convert digital text into an image that looks like a handwritten assignment using specific libraries. The most straightforward approach uses the pywhatkit library.
+
+# 12. [headlight detection](https://github.com/MkSingh431/python-projects-collection/tree/main/headlight%20detection)
+![alt text](https://images.imagetin.com/micksgarage-ie/646jk67ggt/4_(1)_aa3129.png)
+Headlight detection, in the context of computer vision and intelligent transportation systems, refers to the automatic identification and localization of vehicle headlights in images or video streams.
+
+# 13. [helment detection](https://github.com/MkSingh431/python-projects-collection/tree/main/helmet%20detection)
+![alt text](https://tse4.mm.bing.net/th/id/OIP.UedKI1MhduICMzlYA8PPOAHaEo?rs=1&pid=ImgDetMain&o=7&rm=3)
+Helmet detection is an application of computer vision and deep learning used to automatically identify whether an individual in an image or video is wearing a safety helmet. It's a vital technology for enhancing road safety enforcement (motorcycle helmets) and workplace safety compliance (hard hats)
+
+# 14. [image compression](https://github.com/MkSingh431/python-projects-collection/tree/main/image%20compression)
+![alt text](https://miro.medium.com/v2/resize:fit:961/1*8CCKNBLYzy4KTLNOglTBCA.png)
+Image compression is the process of reducing the size of an image file without degrading the quality to an unacceptable degree. The main goal is to decrease the number of bits required to represent the image data, which saves storage space and reduces the time needed to transmit the image over a network.
+
+# 15. [image size reducer](https://github.com/MkSingh431/python-projects-collection/tree/main/image%20size%20reducer)
+![alt text](https://image.pi7.org/static/img/reduce_image_size.jpeg)
+"Image size reducer" typically refers to image compression, which is the process of decreasing the file size of an image. As discussed previously, there are two main ways to reduce the image size: Lossless and Lossy compression.
+
+# 16. [merge pdfs](https://github.com/MkSingh431/python-projects-collection/tree/main/merge%20pdfs)
+![alt text](https://imagedelivery.net/pcavElAZUUevXK53Dl4vWA/b7390b66-c055-4564-8041-e4b9d547b300/public)
+Merging PDFs is the process of combining two or more separate PDF documents into a single, unified PDF file. This is a common task for creating reports, consolidating legal documents, or combining different sections of a project.
+
+# 17. [mobile number tracker](https://github.com/MkSingh431/python-projects-collection/tree/main/mobile%20number%20tracker)
+![alt text](https://m.media-amazon.com/images/I/81H4Z+z0nXL.jpg)
+
+# 18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
