@@ -75,7 +75,6 @@ Merging PDFs is the process of combining two or more separate PDF documents into
 # 17. [mobile number tracker](https://github.com/MkSingh431/python-projects-collection/tree/main/mobile%20number%20tracker)
 ![alt text](https://m.media-amazon.com/images/I/81H4Z+z0nXL.jpg)
 
-# 18
 
 
 
